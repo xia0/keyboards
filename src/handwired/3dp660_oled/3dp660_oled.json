@@ -1,7 +1,6 @@
 {
   "name": "3dp660 OLED",
-  "lighting": "none",
-  "vendorId": "0x1A00",
+  "vendorId": "0x6662",
   "productId": "0x3661",
   "matrix": {
       "rows": 10,
